@@ -1,0 +1,1 @@
+export { ScheduleList as default } from './DoctorList';

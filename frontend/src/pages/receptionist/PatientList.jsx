@@ -1,0 +1,1 @@
+export { PatientList as default } from './TodayQueue';

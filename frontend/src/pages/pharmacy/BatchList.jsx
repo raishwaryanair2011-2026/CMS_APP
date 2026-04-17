@@ -1,0 +1,1 @@
+export { BatchList as default } from './MedicineList';
